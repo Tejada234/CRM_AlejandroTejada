@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.CRM.app.CRM_Alejandro_Tejada.CrmAlejandroTejadaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.14 s <<< FAILURE! - in com.CRM.app.CRM_Alejandro_Tejada.CrmAlejandroTejadaApplicationTests
+getUsersNotNull  Time elapsed: 0.696 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <true> but was: <null>
+	at com.CRM.app.CRM_Alejandro_Tejada.CrmAlejandroTejadaApplicationTests.getUsersNotNull(CrmAlejandroTejadaApplicationTests.java:20)
+
